@@ -6,6 +6,11 @@ public class Main {
     public Main(String jjhv) {
         this.jjhv = jjhv;
     }
+
+    public String getJjhv() {
+        return jjhv;
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello, hbhgvjyb!");
     }
