@@ -12,6 +12,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("Hello, hbhgvl,,,,,,,,,,,,,,,,,njknnjnjnj,,,,,,,,,,okijy7ftghujiokp9o8hujyb!");
+        System.out.println("Hello, 2313213213");
     }
 }
